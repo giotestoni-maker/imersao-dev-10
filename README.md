@@ -43,7 +43,7 @@ Não é necessário instalar nada! Como o projeto utiliza HTML e JS puro:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git](https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git)
+    git clone [https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git](https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git](https://github.com/giotestoni-maker/imersao-dev-10.git)
     ```
 2.  **Abra o arquivo `index.html`:**
     Basta dar um duplo clique no arquivo `index.html` ou abri-lo através do seu navegador preferido.
