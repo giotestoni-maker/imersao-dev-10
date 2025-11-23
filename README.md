@@ -1,5 +1,5 @@
 # imersao-dev-10
-Repositório de atividades, anotações e projetos desenvolvidos durante a promoção promovida pela Alura em parceria com o Google.
+Repositório de atividades, anotações e projetos desenvolvidos durante a promoção promovida pela Alura em parceria com o Google. Este projeto é uma base de conhecimentos sobre alguns dos maiores nomes da doutrina espírita e direcionamentos para algumas obras. Ele foi criado para incentivar quem tem interesse em conhecer melhor o espiritismo, ter um lugar com facilidade para encontrar algumas obras e sobre a doutrina.   
 # Obras do Espiritismo 🕊️
 
 > Projeto desenvolvido durante a **Imersão Dev com Google Gemini** (Alura).
