@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Contato - Senhores do Espiritismo</title>
+</head>
+<body>
+    <header>
+        <h1>Espiritismo</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="sobre.html">Sobre</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+        <form id="search-form" class="search-bar">
+            <input type="text" id="search-input" placeholder="Buscar por obra ou autor...">
+            <button type="submit" id="botao-busca">Buscar</button>
+        </form>
+    </header>
+
+    <main class="about-contact-page">
+        <div class="container-texto">
+            <h2>Contato</h2>
+            <p>Para sugestões, correções ou para saber mais, por favor utilize os canais abaixo:</p>
+            <p><strong>Email:</strong> <a href="mailto:gicadigital1@gmail.com">gicadigital1@gmail.com</a></p>
+            <p>Você também pode encontrar mais projetos na <strong><a href="https://www.feak.org/" target="_blank">FEAK</a></strong>, um centro espírita que transmite muitos ensinamentos para nós evoluirmos cada vez mais!
+            Além disso, existem diversos estudos de obras feitos pelos médiuns desse centro no canal do <strong><a href="https://www.youtube.com/@FeakTV/videos" target="_blank">Youtube</a></strong>.</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li><a href="https://github.com/giotestoni-maker">Github</a></li>
+        </ul>
+    </footer>
+
+    <script>
+        // Script para redirecionar a busca para a página inicial
+        document.getElementById('search-form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Impede o envio padrão do formulário
+            const searchTerm = document.getElementById('search-input').value;
+            if (searchTerm.trim() !== '') {
+                // Redireciona para a página inicial com o termo de busca como parâmetro
+                window.location.href = `index.html?search=${encodeURIComponent(searchTerm)}`;
+            }
+        });
+    </script>
+</body>
+</html>
