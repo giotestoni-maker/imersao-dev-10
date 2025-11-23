@@ -6,6 +6,8 @@ Repositório de atividades, anotações e projetos desenvolvidos durante a promo
 
 Este projeto é uma aplicação web interativa que centraliza todo o trabalho realizado durante a Imersão Dev com Google Gemini – 10ª edição, a qual serve como uma base de conhecimento rápida sobre as figuras mais influentes do Espiritismo. O objetivo é fornecer informações e links para obras importantes de mestres como Allan Kardec, Chico Xavier, entre outros. Além de divulgar cada vez mais a doutrina espírita para quem tem interesse.
 
+Link para vizualizar o projeto online:
+https://giotestoni-maker.github.io/imersao-dev-10/
 ---
 
 ## ✨ Funcionalidades
