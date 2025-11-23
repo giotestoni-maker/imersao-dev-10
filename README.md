@@ -17,6 +17,15 @@ Este projeto é uma aplicação web interativa que centraliza todo o trabalho re
 
 ---
 
+## 🗂 Estrutura do Repositório
+
+* **`index.html`**: Estrutura principal da página, contendo o cabeçalho, a barra de pesquisa e a área de resultados.
+* **`style.css`**: Arquivo responsável pelo design visual, cores, tipografia e regras de responsividade.
+* **`script.js`**: Contém a lógica de programação, incluindo a função de pesquisa e a manipulação do DOM.
+* **`dados.js`**: Base de dados local (Array de Objetos) com as informações sobre os médiuns e as obras espíritas.
+
+ ---
+
 ## 💻 Tecnologias Utilizadas
 
 | Tecnologia | Descrição |
